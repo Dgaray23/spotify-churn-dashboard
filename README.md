@@ -2,9 +2,9 @@
 
 **An interactive Tableau dashboard that explores which Spotify users cancel, and what they have in common.**
 
-🔗 **[View the live dashboard on Tableau Public](ADD-YOUR-TABLEAU-PUBLIC-LINK-HERE)**
+🔗 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/darell.darell/viz/SpotifySubscriptionChurnDashboard/Dashboard)**
 
-![Dashboard preview](images/dashboard.png)
+[![Dashboard preview](images/dashboard.png)](https://public.tableau.com/app/profile/darell.darell/viz/SpotifySubscriptionChurnDashboard/Dashboard)
 
 ---
 
@@ -18,7 +18,7 @@ About 1 in 4 users in this dataset cancelled their subscription. Keeping an exis
 
 | | |
 |---|---|
-| **Source** | Spotify churn dataset ([Kaggle — add link](ADD-DATASET-LINK-HERE)) |
+| **Source** | Spotify churn dataset (Kaggle) |
 | **Size** | 8,000 users, 12 columns |
 | **Key fields** | plan type, device, country, age, gender, listening time, songs per day, skip rate, ads per week, offline listening, churned (1/0) |
 
@@ -110,4 +110,4 @@ These are hypotheses to test, not proven causes:
 
 ## Author
 
-**Darell Garay**: [LinkedIn](ADD-LINK) · [Tableau Public](ADD-LINK)
+**Darell Garay**: [LinkedIn](https://www.linkedin.com/in/darell-garay-b25127bb) · [Tableau Public](https://public.tableau.com/app/profile/darell.darell)
